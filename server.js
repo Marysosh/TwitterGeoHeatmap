@@ -52,6 +52,7 @@ app.get('/getCoord', (req,res) => {
                   res.json({status:'no coordinates from OpenStreetMap', geolocation: geolocations, scoordinates:''})
                 };
               })
+              .catch(err => res.json({status:'no coordinates from OpenStreetMap', geolocation: geolocations, scoordinates:''}))
 
         } else {
           console.log('No geolocation from profile');
@@ -72,7 +73,3 @@ app.listen(port, (err) => {
     };
     console.log(`server is listening on ${port}`);
 });
-
-
-// работает let geo = pageCode.match(/ProfileHeaderCard-locationText u-dir" dir="ltr">[^<]+</g);
-//<span class="ProfileHeaderCard-locationText u-dir" dir="ltr">The Internet, USA</span>
