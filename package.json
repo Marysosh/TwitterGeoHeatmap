@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "heatmap.js": "^2.0.5",
+    "leaflet": "^1.6.0",
     "papaparse": "^5.2.0",
     "path": "^0.12.7",
     "request": "^2.88.2",

@@ -29,11 +29,39 @@ app.get('/getCoord', (req,res) => {
          let geolocations = geo[1].trim();
          console.log(geolocations);
         //res.json({status:'successfully'});
-        res.json({status:'ok', geo: geolocations})
+  // получение координат через API OpenStreetMap
+        if (geolocations) {
+              const options = {
+                method: 'GET',
+                uri: 'https://nominatim.openstreetmap.org/search?q=' + geolocations + '&limit=49&format=geojson',
+                headers:{
+                'User-Agent': 'Request-Promise'
+              },
+              json: true
+              };
+              //console.log(options);
+              rp(options)
+              .then(function(response) {
+                let streetMapInfo = response;
+                if (streetMapInfo.features[0]){
+                  let coordinates = streetMapInfo.features[0].geometry.coordinates
+                  console.log(coordinates);
+                  res.json({status:'Coordinates found!', geolocation: geolocations, coordinates: coordinates })
+                } else {
+                  console.log('No coordinates from OpenStreetMap');
+                  res.json({status:'no coordinates from OpenStreetMap', geolocation: geolocations, scoordinates:''})
+                };
+              })
+
+        } else {
+          console.log('No geolocation from profile');
+          res.json({status: 'No geolocation from users page tag', coordinates:''});
+        };
+        //res.json({status:'ok', geo: geolocations})
     })
     .catch(function (err) {
-        console.log('ERROR!',err);
-        res.json({status:'error'})
+        console.log('No twitter page code');
+        res.json({status:'No twitter page code', coordinates:''})
     });
 });
 
