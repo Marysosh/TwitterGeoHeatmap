@@ -1,0 +1,13 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+selenium==3.141.0
+pandas
+Lasagne==0.1
+numpy
+matplotlib==3.3.3
+seaborn
+Theano==1.0.3
+scipy
+haversine
+networkx
+scikit_learn

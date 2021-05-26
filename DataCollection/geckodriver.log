@@ -1,0 +1,1753 @@
+1621244596100	geckodriver	INFO	Listening on 127.0.0.1:51948
+1621244722358	geckodriver	INFO	Listening on 127.0.0.1:52047
+1621244725401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilefTh9PX"
+1621244725682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621244727606	Marionette	INFO	Listening on port 52055
+1621244728056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621244743075	Marionette	INFO	Stopped listening on port 52055
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621244888880	geckodriver	INFO	Listening on 127.0.0.1:52121
+1621244891927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileTrIBVn"
+1621244892207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621244893905	Marionette	INFO	Listening on port 52129
+1621244893980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621245924276	Marionette	INFO	Stopped listening on port 52129
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileBZbVtw"
+1621244992512	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621244994364	Marionette	INFO	Listening on port 52215
+1621244994392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621245923347	Marionette	INFO	Stopped listening on port 52215
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621245952711	geckodriver	INFO	Listening on 127.0.0.1:52396
+1621245955728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileUD8tp3"
+1621245956005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621245957683	Marionette	INFO	Listening on port 52405
+1621245957776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621261150132	Marionette	INFO	Stopped listening on port 52405
+ing: too late to send/recv, messages will be lost
+
+1621247681343	geckodriver	INFO	Listening on 127.0.0.1:52811
+1621247684367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileqa9bvG"
+1621247684636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621247686471	Marionette	INFO	Listening on port 52819
+1621247686520	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, m1621252535580	Marionette	INFO	Stopped listening on port 52951
+
+###!!! [Child][RunMessage] Error: Channel closing: too late t1621252536576	Marionette	INFO	Stopped listening on port 52819
+pData\\Local\\Temp\\rust_mozprofilewVQjk4"
+1621248864569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621248866462	Marionette	INFO	Listening on port 53084
+1621248866971	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621252534474	Marionette	INFO	Stopped listening on port 53084
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+will be lost
+
+
+###!!! [Parent][RunMessa
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel:1621252533603	Marionette	INFO	Stopped listening on port 53163
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1621252532447	Marionette	INFO	Stopped listening on port 53242
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1249084481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621252531750	Marionette	INFO	Stopped listening on port 53324
+1250822782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofile4i6YkY"
+1621250823102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621250824985	Marionette	INFO	Listening on port 53604
+1621250825434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 152 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.ae3acb75.js)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessa1621252529971	Marionette	INFO	Stopped listening on port 53681
+l be lost
+
+1621252530734	Marionette	INFO	Stopped listening on port 53604
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileW4bn7r"
+1621252196928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621252198686	Marionette	INFO	Listening on port 53883
+1621252198714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621252529037	Marionette	INFO	Stopped listening on port 53883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileZsJ1u2"
+1621252325830	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621252327673	Marionette	INFO	Listening on port 53966
+1621252327706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621252528387	Marionette	INFO	Stopped listening on port 53966
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofile9uyGFF"
+1621252435727	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621252437660	Marionette	INFO	Listening on port 54050
+1621252438105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621252527197	Marionette	INFO	Stopped listening on port 54050
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621252541685	geckodriver	INFO	Listening on 127.0.0.1:54129
+1621252544720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileh9DKjp"
+1621252544991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621252546684	Marionette	INFO	Listening on port 54137
+1621252546763	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621261149361	Marionette	INFO	Stopped listening on port 54137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+sage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621254700643	geckodriver	INFO	Listening on 127.0.0.1:54358
+1621254703664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileecn4oB"
+1621254703937	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621254705503	Marionette	INFO	Listening on port 54366
+1621254705712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621261148964	Marionette	INFO	Stopped listening on port 54366
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilegRRsMT"
+1621255056613	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621255058465	Marionette	INFO	Listening on port 54465
+1621255058501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 152 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.ae3acb75.js)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621261148554	Marionette	INFO	Stopped listening on port 54465
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closin1621261147679	Marionette	INFO	Stopped listening on port 54761
+rent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621261148138	Marionette	INFO	Stopped listening on port 54666
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+INFO	Listening on port 54852
+1621255895783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621261147217	Marionette	INFO	Stopped listening on port 54852
+1256370691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilezaZs6L"
+1621256370958	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621256372657	Marionette	INFO	Listening on port 54985
+1621256372722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621261146757	Marionette	INFO	Stopped listening on port 54985
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofile0LdoEg"
+1621256477252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621256479106	Marionette	INFO	Listening on port 55070
+1621256479122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 152 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.ae3acb75.js)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621261146309	Marionette	INFO	Stopped listening on port 55070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilectQB3Q"
+1621256632956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621256634572	Marionette	INFO	Listening on port 55151
+1621256634742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendors~main.b90ac095.js, line 13: TypeError: window.getSelection() is null
+1621256635814	Marionette	INFO	Stopped listening on port 55151
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621256648226	geckodriver	INFO	Listening on 127.0.0.1:55194
+1621256651257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileCbjeqv"
+1621256651526	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621256653391	Marionette	INFO	Listening on port 55202
+1621256653903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621261145816	Marionette	INFO	Stopped listening on port 55202
+INFO	Listening on port 55394
+1621258411434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621261145183	Marionette	INFO	Stopped listening on port 55394
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilefrQpuZ"
+1621258525516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621258527444	Marionette	INFO	Listening on port 55483
+1621258527932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621261144578	Marionette	INFO	Stopped listening on port 55483
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilera4VQl"
+1621258656311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621258658122	Marionette	INFO	Listening on port 55575
+1621258658198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621261143325	Marionette	INFO	Stopped listening on port 55575
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileXSOq85"
+1621258902795	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621258904634	Marionette	INFO	Listening on port 55669
+1621258904675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 54 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.60b62f55.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 164 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.3c1b92c5.js)
+1621261142857	Marionette	INFO	Stopped listening on port 55669
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileLMmcEY"
+1621259392531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621259394468	Marionette	INFO	Listening on port 55783
+1621259394927	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621261142362	Marionette	INFO	Stopped listening on port 55783
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mozprofile3RUNtm"
+1621259523831	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621259525749	Marionette	INFO	Listening on port 55884
+1621259526236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621261141842	Marionette	INFO	Stopped listening on port 55884
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilevpJGDX"
+1621260254059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621260256051	Marionette	INFO	Listening on port 56012
+1621260256439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621261141307	Marionette	INFO	Stopped listening on port 56012
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileiddTl7"
+1621260930997	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621260933016	Marionette	INFO	Listening on port 56218
+1621260933327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621261140682	Marionette	INFO	Stopped listening on port 56218
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileQBpN88"
+1621261132004	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621261134030	Marionette	INFO	Listening on port 56302
+1621261134339	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30708, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621261134899	Marionette	INFO	Stopped listening on port 56302
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621261264174	geckodriver	INFO	Listening on 127.0.0.1:56343
+1621261267198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilefiQ1Qv"
+1621261267487	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621261269185	Marionette	INFO	Listening on port 56351
+1621261269257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621277911061	Marionette	INFO	Stopped listening on port 56351
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621360769047	geckodriver	INFO	Listening on 127.0.0.1:63570
+1621360772097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofile8mAcNP"
+1621360772742	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621360774724	Marionette	INFO	Listening on port 63578
+1621360774782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621361261880	Marionette	INFO	Stopped listening on port 63578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofile61tCaA"
+1621361208573	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621361210300	Marionette	INFO	Listening on port 58855
+1621361210362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 165 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.26484065.js)
+1621361262993	Marionette	INFO	Stopped listening on port 58855
+1621361271200	geckodriver	INFO	Listening on 127.0.0.1:58998
+1621361274229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofiletmJg5r"
+1621361274545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621361276313	Marionette	INFO	Listening on port 59006
+1621361276381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 153 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.4848e7c5.js)
+1621361321209	Marionette	INFO	Stopped listening on port 59006
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621361326003	geckodriver	INFO	Listening on 127.0.0.1:59088
+1621361329047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileiSvWwJ"
+1621361329343	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621361330996	Marionette	INFO	Listening on port 59097
+1621361331103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621361540691	Marionette	INFO	Stopped listening on port 59097
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621361744962	geckodriver	INFO	Listening on 127.0.0.1:59713
+1621361747995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilekar9xQ"
+1621361748295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621361750125	Marionette	INFO	Listening on port 59724
+1621361750163	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621362092450	Marionette	INFO	Stopped listening on port 59724
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+onette	INFO	Stopped listening on port 60124
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621362116515	geckodriver	INFO	Listening on 127.0.0.1:61013
+1621362119557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileUFZJxo"
+1621362119865	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621362121686	Marionette	INFO	Listening on port 61026
+1621362121724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621362623702	Marionette	INFO	Stopped listening on port 61026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileWs7xXI"
+1621362620149	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621362621890	Marionette	INFO	Listening on port 62746
+1621362621938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621362692073	Marionette	INFO	Stopped listening on port 62746
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621362726564	geckodriver	INFO	Listening on 127.0.0.1:63153
+1621362729602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilenK0qUX"
+1621362729878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621362731469	Marionette	INFO	Listening on port 63167
+1621362731661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621362768910	Marionette	INFO	Stopped listening on port 63167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621362803582	geckodriver	INFO	Listening on 127.0.0.1:63437
+1621362806622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilel1ZC5Y"
+1621362806905	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621362808623	Marionette	INFO	Listening on port 63452
+1621362808679	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621363099229	Marionette	INFO	Stopped listening on port 63452
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mozprofileuoOi31"
+1621362957307	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621362959014	Marionette	INFO	Listening on port 63885
+1621362959084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 55 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.f7c363d5.js)
+1621363096130	Marionette	INFO	Stopped listening on port 63885
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621363115602	geckodriver	INFO	Listening on 127.0.0.1:64419
+1621363118641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilezNBtc4"
+1621363118922	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621363120735	Marionette	INFO	Listening on port 64430
+1621363120801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621372334564	Marionette	INFO	Stopped listening on port 64430
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621457536958	geckodriver	INFO	Listening on 127.0.0.1:50017
+1621457539945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilepaMs6r"
+1621457540509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621457542727	Marionette	INFO	Listening on port 50025
+1621457543120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621457671804	Marionette	INFO	Stopped listening on port 50025
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621457703602	geckodriver	INFO	Listening on 127.0.0.1:50103
+1621457706641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileqJaWYe"
+1621457706918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621457708537	Marionette	INFO	Listening on port 50111
+1621457708687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621523790343	Marionette	INFO	Stopped listening on port 50111
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileIibPAz"
+1621457771885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621457773390	Marionette	INFO	Listening on port 50192
+1621457773648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2926: TypeError: event.target.closest is not a function
+1621523787733	Marionette	INFO	Stopped listening on port 50192
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621457924290	Marionette	INFO	Listening on port 50295
+1621457924405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 12220, MediaDecoderStateMachine #1] WARNING: Decoder=1e38bf71000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12220, MediaDecoderStateMachine #1] WARNING: Decoder=1e38bf71000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 12220, MediaDecoderStateMachine #1] WARNING: Decoder=1e38b3b3c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12220, MediaDecoderStateMachine #1] WARNING: Decoder=1e38b3b3c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 12220, MediaDecoderStateMachine #1] WARNING: Decoder=1e38bf6a000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12220, MediaDecoderStateMachine #1] WARNING: Decoder=1e38bf6a000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621523789342	Marionette	INFO	Stopped listening on port 50295
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621541496116	geckodriver	INFO	Listening on 127.0.0.1:50465
+1621541499143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilejseqGj"
+1621541499840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621541501867	Marionette	INFO	Listening on port 50473
+1621541502329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 11792, MediaDecoderStateMachine #1] WARNING: Decoder=1538b308c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 11792, MediaDecoderStateMachine #1] WARNING: Decoder=1538b308c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 11792, MediaDecoderStateMachine #1] WARNING: Decoder=15390024400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 11792, MediaDecoderStateMachine #1] WARNING: Decoder=15390024400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+1621584700375	Marionette	INFO	Stopped listening on port 50473
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621584742133	geckodriver	INFO	Listening on 127.0.0.1:52541
+1621584745160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofile9ezUCR"
+1621584745471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621584746965	Marionette	INFO	Listening on port 52549
+1621584747214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 153 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.4848e7c5.js)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621586207262	Marionette	INFO	Stopped listening on port 52549
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tte	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621586208089	Marionette	INFO	Stopped listening on port 52712
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileWIBrj9"
+1621585620205	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621585621851	Marionette	INFO	Listening on port 52809
+1621585621981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1621586208954	Marionette	INFO	Stopped listening on port 52809
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621586212938	geckodriver	INFO	Listening on 127.0.0.1:52987
+1621586215974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileLEGM8H"
+1621586216247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621586217777	Marionette	INFO	Listening on port 52996
+1621586218020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/henryco32, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FleischmanKymm, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e5017c7800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e5017c7800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e5015b4400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e5015b4400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e502bab400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e502bab400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e508d34800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e508d34800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e54f11fc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e54f11fc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e501af0800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 5136, MediaDecoderStateMachine #1] WARNING: Decoder=1e501af0800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1621679517360	geckodriver	INFO	Listening on 127.0.0.1:49819
+1621679520416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileP7sjnN"
+1621679520972	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621679522877	Marionette	INFO	Listening on port 49827
+1621679523098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c89880800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c89880800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88b5c000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88b5c000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c89883400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c89883400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88316000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88316000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: TypeError: o is undefined
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e7c000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e7c000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c895bd800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c895bd800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c8a509000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c8a509000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88b4e800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88b4e800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e59000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e59000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e54c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e54c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+JavaScript error: https://twitter.com/FaridHaque, line 131: ChunkLoadError: Loading chunk 178 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.ef4a3825.js)
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c895b9400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c895b9400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c89624800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c89624800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c89882400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c89882400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88b48400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88b48400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c8879d000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c8879d000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88b5f400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88b5f400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e61800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e61800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e54400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e54400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e5e400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c87e5e400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c887a2c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c887a2c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: TypeError: e.activeCues is null
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88b4c000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=23c88b4c000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621716966002	Marionette	INFO	Stopped listening on port 49827
+1621716973715	geckodriver	INFO	Listening on 127.0.0.1:49498
+1621716976791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileIQrrLK"
+1621716977206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621716979262	Marionette	INFO	Listening on port 49509
+1621716979445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621716993161	Marionette	INFO	Stopped listening on port 49509
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621717052750	geckodriver	INFO	Listening on 127.0.0.1:49599
+1621717055797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofilejeHQ7I"
+1621717056089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621717057931	Marionette	INFO	Listening on port 49607
+1621717057961	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 165 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.26484065.js)
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=2133fbdf000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=2133fbdf000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript error: https://twitter.com/RMayben9, line 131: ChunkLoadError: Loading chunk 18 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~ondemand.EmojiPickerData~ondemand.EmojiPicker.06995035.js)
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=2133641fc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=2133641fc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=213412e9000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=213412e9000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=213467d7800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=213467d7800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=21341282000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=21341282000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=21336495000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=21336495000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=213412e8800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=213412e8800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: TypeError: o is undefined
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=213491b8400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=213491b8400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=2133641f800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=2133641f800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=2133fb4cc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=2133fb4cc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=213404a6800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=213404a6800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=2133fbe6800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=2133fbe6800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=21341286c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=21341286c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=21336498400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 3316, MediaDecoderStateMachine #1] WARNING: Decoder=21336498400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+1621760928747	Marionette	INFO	Stopped listening on port 49607
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621761041769	geckodriver	INFO	Listening on 127.0.0.1:57925
+1621761044819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileJ7r9ak"
+1621761045150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621761046883	Marionette	INFO	Listening on port 57933
+1621761046976	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 928, MediaDecoderStateMachine #1] WARNING: Decoder=22322b27800 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 928, MediaDecoderStateMachine #1] WARNING: Decoder=22322bc0c00 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 928, MediaDecoderStateMachine #1] WARNING: Decoder=22322bc2400 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript error: https://twitter.com/mluft, line 131: ChunkLoadError: Loading chunk 241 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.b4665915.js)
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: TypeError: A.conversation_control.conversation_owner.legacy is undefined
+[Child 928, MediaDecoderStateMachine #1] WARNING: Decoder=2232882e800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 928, MediaDecoderStateMachine #1] WARNING: Decoder=2232882e800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 928, MediaDecoderStateMachine #1] WARNING: Decoder=22325f52c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 928, MediaDecoderStateMachine #1] WARNING: Decoder=22325f52c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 928, MediaDecoderStateMachine #1] WARNING: Decoder=22325f67400 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 928, MediaDecoderStateMachine #1] WARNING: Decoder=22322fda800 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 928, MediaDecoderStateMachine #1] WARNING: Decoder=22325f6d400 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 928, MediaDecoderStateMachine #1] WARNING: Decoder=22326796c00 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [P[Child 19840, MediaDecoderStateMachine #1] WARNING: Decoder=11a26c19c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 19840, MediaDecoderStateMachine #1] WARNING: Decoder=11a26c19c00 
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late t[Child 19840, MediaDecoderStateMachine #1] WARNING: Decoder=11a33764400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 19840, MediaDecoderStateMachine #1] WARNING: Decoder=11a33764400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMac
+###!!! [Paren[Child 19840, MediaDecoderStateMachine #1] WARNING: Decoder=11a2e1d1c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 19840, MediaDecoderStateMachine #1] WARNING: Decoder=11a2e1d1c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuff
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to se[Parent 15220, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621801168161	Marionette	INFO	Stopped listening on port 49245
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621801165790	Marionette	INFO	Stopped listening on port 57933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621801173605	geckodriver	INFO	Listening on 127.0.0.1:51547
+1621801176663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofile2VeEXe"
+1621801177155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621801180047	Marionette	INFO	Listening on port 51555
+1621801180364	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621801701920	Marionette	INFO	Stopped listening on port 51555
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621801704961	geckodriver	INFO	Listening on 127.0.0.1:51882
+1621801707995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STANIS~1\\AppData\\Local\\Temp\\rust_mozprofileZuzef9"
+1621801708283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621801710002	Marionette	INFO	Listening on port 51893
+1621801710053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: TypeError: o is undefined
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa9b0d400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa9b0d400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa8fa1400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa8fa1400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.99d0c545.js, line 1: TypeError: o is undefined
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2df9c1a2000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2df9c1a2000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2df9c11f800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2df9c11f800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa65fa800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa65fa800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa97ad000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa97ad000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2df9c11d800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2df9c11d800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2df9c199000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2df9c199000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa5674800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa5674800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa8144c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa8144c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa832a800 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa5676400 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa6554800 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfa6558800 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+[Child 25824, MediaDecoderStateMachine #1] WARNING: Decoder=2dfcda8a400 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621879562830	Marionette	INFO	Stopped listening on port 51893
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
