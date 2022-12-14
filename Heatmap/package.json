@@ -9,7 +9,7 @@
   "author": "Mary Soshnikova",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "heatmap.js": "^2.0.5",
     "leaflet": "^1.6.0",
     "papaparse": "^5.2.0",
